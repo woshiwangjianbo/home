@@ -3,5 +3,10 @@
     "icon": "Blog",
     "name": "博客",
     "link": "http://blog.baimianwei.cn/"
+  },
+   {
+    "icon": "chat",
+    "name": "gpt",
+    "link": "http://gpt.aicyeday.cn/"
   }
 ]
